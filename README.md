@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @irenegm2022
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning CS50
+- 💞️ I’m looking to collaborate on familiarising myself into the programming wprld
+- 📫 How to reach me irenegm2022
